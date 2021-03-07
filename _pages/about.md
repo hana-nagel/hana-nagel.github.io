@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 author: Johnathan Smith
-image: assets/images/about/author.jpg
+image: https://rosenfeldmedia.com/designopssummit2018/wp-content/uploads/sites/10/2018/07/nagel-262x272.png
 signature: assets/images/about/signature.png
 ---
 
